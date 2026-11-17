@@ -54,3 +54,7 @@ def play_game():
         if location == "cave":
             print("Congratulations! You discovered the hidden cave!")
             break
+
+  if command == "look":
+            print(describe_room(location))
+            continue
