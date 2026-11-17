@@ -47,6 +47,9 @@ def play_game():
         if command == "quit":
             print("Thanks for playing QuestForge!")
             break
+            if command == "look":
+            print(describe_room(location))
+            continue
 
         location, message = move_player(location, command)
         print(message)
