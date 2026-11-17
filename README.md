@@ -42,6 +42,11 @@ Add more adventure challenges.
 
 Project
 
+## Version
+Current planned release: v1.0
+
+This release includes the initial QuestForge text-adventure engine.
+
 Startup: Startup AU
 
 Product: QuestForge
